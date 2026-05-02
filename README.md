@@ -54,6 +54,12 @@ streamlit run stock_dashboard.py
 * Portfolio tracking
 * Alerts system
 
+⚠️ Important (Don’t skip)
+
+Run like this:
+
+streamlit run stock_dashboard.py
+
 ---
 
 ## 👨‍💻 Author
